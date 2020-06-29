@@ -37,3 +37,19 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+
+.yellow-white{
+    background-color: rgba(241, 189, 16, 0.911);
+    color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+input[type="radio"]{
+    margin: 0 10px 0 10px;
+  }
+
+.shift{
+    margin:5px 16px 0 14px;
+    max-width: 250px;
+}
