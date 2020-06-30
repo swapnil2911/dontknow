@@ -60,3 +60,23 @@ input[type="radio"]{
     border-right: 1px solid #ddd;
     margin: 10px;
 }
+
+.carousel{
+    background: #512da8;
+}
+
+.carousel-item{
+    height: 300px;
+}
+
+.carousel-item img{
+    position: absolute;
+    top:0px;
+    left:0;
+    min-height:300px;
+}
+
+.carousel-caption{
+    padding-left:30px;
+    padding-bottom: 70px;
+}
