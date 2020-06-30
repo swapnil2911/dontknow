@@ -80,3 +80,14 @@ input[type="radio"]{
     padding-left:30px;
     padding-bottom: 70px;
 }
+
+.shift1{
+    margin: 0 0 0 10px;
+}
+
+#carouselButton{
+    right:0px;
+    position: absolute;
+    bottom:0px;
+    z-index: 1;
+}
