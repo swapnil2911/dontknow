@@ -51,7 +51,7 @@ input[type="radio"]{
 
 .shift{
     margin:5px 16px 0 14px;
-    max-width: 250px;
+    max-width: 300px;
 }
 
 .tab-content{
@@ -90,4 +90,17 @@ input[type="radio"]{
     position: absolute;
     bottom:0px;
     z-index: 1;
+}
+
+.modal-header{
+    background-color: #512da8;
+    color: white;
+}
+
+.modal-body{
+    background-color: #d9cfee;
+}
+
+.close-color{
+    color: white;
 }
